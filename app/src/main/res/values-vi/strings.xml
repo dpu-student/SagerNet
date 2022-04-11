@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="github">Mã nguồn</string>
+    <string name="oss_licenses">Giấy phép mã nguồn mở</string>
+    <string name="app_version">Phiên bản</string>
+    <string name="logcat">Xuất thông tin gỡ lỗi</string>
+    <string name="logcat_summary">Hữu ích</string>
+    <string name="menu_configuration">Cấu hình</string>
+    <string name="menu_group">Nhóm</string>
+    <string name="project">Dự án</string>
+    <string name="version_x">Phiên bản (%S)</string>
+    <string name="app_desc">Công cụ proxy phổ biến dành cho Android, được viết bằng Kotlin</string>
+    <string name="telegram">Cập nhật Telegram</string>
+    <string name="theme">Chủ đề</string>
+    <string name="group_default">Đã hủy nhóm</string>
+    <string name="quick_toggle">Bật tắt</string>
+    <string name="tile_title">Chuyển đổi</string>
+    <string name="menu_traffic">Lưu lượng truy cập</string>
+    <string name="group_update">Cập nhật</string>
+    <string name="group_name_required">Tên nhóm cần thiết</string>
+    <string name="group_create">Tạo nhóm</string>
+    <string name="group_create_subscription">Đăng ký nhóm</string>
+    <string name="group_edit">Chỉnh sửa nhóm</string>
+    <string name="group_edit_subscription">Chỉnh sửa đăng ký</string>
+    <string name="group_status_empty">Nhóm trống</string>
+    <string name="group_status_empty_subscription">Chưa cập nhật</string>
+    <string name="group_no_difference">Không có sự khác biệt</string>
+    <string name="group_updated">%s: Cập nhật %d proxies</string>
+    <string name="group_show_diff">Khác</string>
+    <string name="group_added">Thêm:
+\n%s</string>
+    <string name="group_changed">Đã cập nhật:
+\n%s</string>
+    <string name="action_switch">Thay đổi</string>
+    <string name="menu_about">Giới thiệu</string>
+    <string name="document">Tài liệu</string>
+    <string name="group_status_proxies">% dProxy</string>
+    <string name="group_diff">Khác (%s)</string>
+    <string name="group_status_proxies_subscription">"%d Proxies | Cập nhật ngày  %s"</string>
+    <string name="group_subscription_link">Liên kết đăng ký</string>
+    <string name="group_name">Tên nhóm</string>
+    <string name="group_delete_confirm_prompt">Bạn có chắc chắn muốn xoá nhóm này không</string>
+</resources>
